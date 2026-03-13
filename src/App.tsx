@@ -1,6 +1,6 @@
-import React, { useState, useEffect, useRef } from "react";
-import { motion, AnimatePresence } from "framer-motion";
-import { Atom, Zap, Target, Microscope, ChevronDown, HardDrive, Share2, Info } from "lucide-react";
+import React, { useState, useEffect } from 'react';
+import { motion, AnimatePresence } from 'framer-motion';
+import { Atom, ChevronDown, HardDrive, Share2 } from 'lucide-react';
 
 // --- DATEN-KONSTANTEN ---
 const STATS = [
